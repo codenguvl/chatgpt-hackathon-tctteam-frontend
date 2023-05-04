@@ -4,7 +4,7 @@ Trang web này được xây dựng bằng ReactJS, NodeJS, ExpressJS và MongoD
 
 - Thư mục `frontend` chứa các thư mục `api`, `components`, `page`, `dataStatic` và `hooks`. Nó sử dụng thư viện `Styled Components` để tổ chức và quản lý CSS của hệ thống. Ứng dụng chạy trên cổng `localhost:3000`.
 - Thư mục `backend` : [Backend repository](https://github.com/codenguvl/chatgpt-hackathon-teamtct-backend)
-- Thư mục `database` chứa các bảng dữ liệu của ứng dụng bao gồm `majors`, `universities`, `universityentranceexamscores` và `users`.
+- Thư mục `database` chứa các bảng dữ liệu của ứng dụng bao gồm `majors`, `universities`, `universityentranceexamscores` và `users`. [Database](https://drive.google.com/drive/folders/1E9AK8HU30THQpUHY4oOfm6AZ55kAqTqB)
 
 ## Chức năng của trang web
 
